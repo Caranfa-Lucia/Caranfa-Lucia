@@ -68,15 +68,23 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
+<br>
+
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caranfa-Lucia&layout=compact&theme=radical)  
 
 <br>
 
+![](https://github-readme-streak-stats.herokuapp.com/?username=Caranfa-Lucia&layout=compact&theme=radical)<br/>
+
+<br>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caranfa-Lucia&show_icons=true&theme=radical)
 
 </div>
+
+<br>
 
 ----
 
