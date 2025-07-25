@@ -58,11 +58,15 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 ## 🎯 Enfoque actual
 
+<br>
+
 ✅ Seguir creciendo como **Frontend Developer**  
 ✅ Explorar el desarrollo móvil con **React Native**  
 ✅ Aplicar herramientas de **IA** para mejorar calidad y rendimiento  
 ✅ Trabajar en proyectos desafiantes con **impacto real**  
 ✅ Participar en equipos colaborativos y ágiles
+
+<br>
 
 ----
 
