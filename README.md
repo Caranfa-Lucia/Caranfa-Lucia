@@ -1,4 +1,3 @@
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
@@ -12,26 +11,34 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 ## 🚀 Sobre mí
 
-<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 350px>
-
-Soy una persona versátil, proactiva y enfocada en resultados.  
-Me destaco por mi capacidad de aprendizaje rápido, atención al detalle y habilidades interpersonales que potencian el trabajo en equipo, el liderazgo y la toma de decisiones.  
-Actualmente estoy enfocada en profundizar mis conocimientos en **React JS**, incursionar en **React Native** e integrar **inteligencia artificial** a mis desarrollos.
+| ![Sobre mí](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif) |  
+|:--|
+|Soy una persona versátil, proactiva y enfocada en resultados. Me destaco por mi capacidad de aprendizaje rápido, atención al detalle y habilidades interpersonales que potencian el trabajo en equipo, el liderazgo y la toma de decisiones.  
+Actualmente estoy enfocada en profundizar mis conocimientos en **React JS**, incursionar en **React Native** e integrar **inteligencia artificial** a mis desarrollos. Busco oportunidades que me permitan crecer profesionalmente y aportar valor en entornos colaborativos y dinámicos.|
 
 ---
 
 ## 🛠️ Habilidades clave
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-- ⚛️ React JS & JavaScript
-- 🖌️ Styled Components & Tailwind CSS
-- 🧪 Testing manual y unitario
-- 🔄 API REST & consumo de servicios
-- 📦 Git, GitHub & control de versiones
-- 📈 Amplitude, Postman, Jira
-- 🧹 Clean Code & principios SOLID
-- ⚙️ Metodologías ágiles (Scrum, Kanban)
-- 🌐 Despliegue en Vercel & Netlify
+### ⚙️ Tecnologías & Frameworks
+
+`React JS` `JavaScript` `React Router` `Styled-components`  
+`Tailwind CSS` `Material-UI` `HTML5` `CSS3`
+
+### 🧪 Testing & Calidad
+
+`QA Manual` `Pruebas unitarias` `Postman` `Amplitude`  
+`Clean Code` `Principios SOLID` `Testing de regresión`  
+
+### 📊 Herramientas
+
+`Git & GitHub` `Jira` `Figma` `Netlify` `Vercel`  
+`API REST` `CRM` `Trello` `Maxirest` `Excel`
+
+### 📚 Metodologías
+
+`Scrum` `Kanban` `Trabajo en equipo` `Documentación`  
+`Code Review` `Autonomía técnica` `Análisis funcional`
 
 ---
 
@@ -54,6 +61,14 @@ Actualmente estoy enfocada en profundizar mis conocimientos en **React JS**, inc
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caranfa-Lucia&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caranfa-Lucia&show_icons=true&theme=radical)
+
+---
+
+Gracias por visitar mi perfil 🤝 ¡Estoy abierta a nuevas oportunidades y desafíos!
 ## 📊 Estadísticas de GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caranfa-Lucia&layout=compact&theme=radical)  
