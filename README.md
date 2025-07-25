@@ -62,7 +62,7 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 ---
 
-## 📬 Contacto
+<h2 align="center"> 📬 Contacto </h2>
 
 <p align="center">
 
