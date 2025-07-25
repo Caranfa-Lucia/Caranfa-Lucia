@@ -22,6 +22,8 @@ Actualmente estoy enfocada en profundizar mis conocimientos en **React JS**, inc
 
 ## 🛠️ Conocimientos, habilidades y experiencia
 
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 💙 `React JS` 💛 `JavaScript` 🟩 `Styled-components` 🟧 `Tailwind CSS`  
 💜 `Material-UI` 💚 `HTML5` 💙 `CSS3` 🟨 `React Router`  
 ❤️ `Git & GitHub` 💛 `Figma` 💚 `Jira` 💙 `Netlify` 🟪 `Vercel`  
