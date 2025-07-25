@@ -12,7 +12,7 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 ## 🚀 Sobre mí
 
 <div align="left">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 350px>
 </div>
 
 Soy una persona versátil, proactiva y enfocada en resultados. Me destaco por mi capacidad de aprendizaje rápido, atención al detalle y habilidades interpersonales que potencian el trabajo en equipo, el liderazgo y la toma de decisiones.  
