@@ -77,7 +77,7 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 <br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Caranfa-Lucia&layout=compact&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)<br/>
+
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caranfa-Lucia&show_icons=true&theme=radical)
