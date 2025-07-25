@@ -82,20 +82,18 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 </p>
 
-<h3 align="center" >Connect with me 🤝 </h3>
+<h3 align="center" >Contactame 🤝 </h3>
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/">
+        <a   target="_blank" href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/lucia-caranfa/)">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Caranfa-Lucia">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="https://">
+           <a style="margin-left: 10px;" target="_blank" href="mailto:luciacaranfa@gmail.com">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 10px;" target="_blank" href="">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
+		<a style="margin-left: 5px;" target="_blank" href="https://caranfa-lucia.vercel.app/">
 					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
       </div>
 
