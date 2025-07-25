@@ -62,6 +62,17 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 ----
 
+## 📊 Estadísticas de GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caranfa-Lucia&layout=compact&theme=radical)  
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caranfa-Lucia&show_icons=true&theme=radical)
+
+----
+
+
 <h3 align="center" >Contactame 🤝 </h3>
 
 <p align="center">
@@ -79,16 +90,4 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 </p>
 
-----
 
-## 📊 Estadísticas de GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caranfa-Lucia&layout=compact&theme=radical)  
-
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caranfa-Lucia&show_icons=true&theme=radical)
-
----
-
-Gracias por visitar mi perfil 🤝 ¡Estoy abierta a nuevas oportunidades y desafíos!
