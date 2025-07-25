@@ -15,9 +15,9 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 <p>
     Soy una persona versátil, proactiva y enfocada en resultados. Me destaco por mi capacidad de aprendizaje rápido, atención al detalle y habilidades interpersonales que potencian el trabajo en equipo, el liderazgo y la toma de decisiones. 
-    </p>
-        <p>
-Actualmente estoy enfocada en profundizar mis conocimientos en **React JS**, incursionar en **React Native** e integrar **inteligencia artificial** a mis desarrollos. Busco oportunidades que me permitan crecer profesionalmente y aportar valor en entornos colaborativos y dinámicos.
+</p>
+ <p>
+    Actualmente estoy enfocada en profundizar mis conocimientos en <b>React JS</b>, incursionar en <b>React Native</b> e integrar <b>inteligencia artificial</b> a mis desarrollos. Busco  oportunidades que me permitan crecer profesionalmente y aportar valor en entornos colaborativos y dinámicos.
 </p>
 
 ---
