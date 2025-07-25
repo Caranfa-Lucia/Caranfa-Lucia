@@ -8,6 +8,7 @@
 Desarrolladora Frontend especializada en **React JS**, apasionada por crear interfaces limpias, escalables y centradas en el usuario.  
 Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a través de soluciones eficientes y de calidad.
 <br>
+<br>
 
 ---
 
@@ -71,8 +72,9 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 ---
 
 ## 📊 Estadísticas de GitHub
-
+<div align="right">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caranfa-Lucia&layout=compact&theme=radical)  
+    </div>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caranfa-Lucia&show_icons=true&theme=radical)
 
 ---
