@@ -60,7 +60,7 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 ✅ Trabajar en proyectos desafiantes con **impacto real**  
 ✅ Participar en equipos colaborativos y ágiles
 
----
+----
 
 <h2 align="center"> 📬 Contacto </h2>
 
@@ -82,7 +82,26 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 </p>
 
----
+<h3 align="center" >Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+           <a style="margin-left: 10px;" target="_blank" href="https://">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+		<a style="margin-left: 10px;" target="_blank" href="">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+		<a style="margin-left: 5px;" target="_blank" href="">
+					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
+      </div>
+
+</p>
+
+----
 
 ## 📊 Estadísticas de GitHub
 
