@@ -82,12 +82,6 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 </p>
 
-
-- 📧 luciacaranfa@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucia-caranfa/)  
-- 🌐 [Mi sitio web](https://caranfa-lucia.vercel.app/)  
-- 🐙 [Mi GitHub](https://github.com/Caranfa-Lucia)
-
 ---
 
 ## 📊 Estadísticas de GitHub
