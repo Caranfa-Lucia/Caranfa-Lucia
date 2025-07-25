@@ -1,6 +1,6 @@
-# 👩‍💻 ¡Hola, soy Lucía Caranfa!
+# 👩‍💻 ¡Hola, soy Luli!
 
-![GIF de desarrolladora en acción](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU0cHFzcXhkdGx1dWU1ODJ1NTNuM3dyZDNpY2VxdXI1Y3YyamJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
+![GIF de desarrolladora en acción](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGV4c3N2ZmhsdmN6b2d4Y2tmNmoxcGpoeWNvZXI1bG42NXRva2w1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
 
 Desarrolladora Frontend especializada en **React JS**, apasionada por crear interfaces limpias, escalables y centradas en el usuario.  
 Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a través de soluciones eficientes y de calidad.
