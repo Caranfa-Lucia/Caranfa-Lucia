@@ -14,7 +14,7 @@ Me destaco por mi capacidad de aprendizaje rápido, atención al detalle y habil
 Actualmente estoy enfocada en profundizar mis conocimientos en **React JS**, incursionar en **React Native** e integrar **inteligencia artificial** a mis desarrollos.
 
 ---
-
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 ## 🛠️ Habilidades clave
 
 - ⚛️ React JS & JavaScript
