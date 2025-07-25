@@ -18,27 +18,15 @@ Actualmente estoy enfocada en profundizar mis conocimientos en **React JS**, inc
 
 ---
 
-## 🛠️ Habilidades clave
+## 🛠️ Conocimientos, habilidades y experiencia
 
-### ⚙️ Tecnologías & Frameworks
-
-`React JS` `JavaScript` `React Router` `Styled-components`  
-`Tailwind CSS` `Material-UI` `HTML5` `CSS3`
-
-### 🧪 Testing & Calidad
-
-`QA Manual` `Pruebas unitarias` `Postman` `Amplitude`  
-`Clean Code` `Principios SOLID` `Testing de regresión`  
-
-### 📊 Herramientas
-
-`Git & GitHub` `Jira` `Figma` `Netlify` `Vercel`  
-`API REST` `CRM` `Trello` `Maxirest` `Excel`
-
-### 📚 Metodologías
-
-`Scrum` `Kanban` `Trabajo en equipo` `Documentación`  
-`Code Review` `Autonomía técnica` `Análisis funcional`
+💙 `React JS` 💛 `JavaScript` 🟩 `Styled-components` 🟧 `Tailwind CSS`  
+💜 `Material-UI` 💚 `HTML5` 💙 `CSS3` 🟨 `React Router`  
+❤️ `Git & GitHub` 💛 `Figma` 💚 `Jira` 💙 `Netlify` 🟪 `Vercel`  
+🟩 `API REST` 💙 `Postman` 💛 `Amplitude` 🧪 `Testing manual y unitario`  
+🟧 `Clean Code` 💙 `SOLID Principles` 💚 `Scrum` 🟨 `Kanban`  
+💜 `Code Review` 🟪 `Trabajo en equipo` 🟩 `Documentación` ❤️ `Análisis funcional`  
+🟨 `CRM` 💙 `Maxirest` 💚 `Excel` 🟧 `Trello`
 
 ---
 
@@ -69,12 +57,3 @@ Actualmente estoy enfocada en profundizar mis conocimientos en **React JS**, inc
 ---
 
 Gracias por visitar mi perfil 🤝 ¡Estoy abierta a nuevas oportunidades y desafíos!
-## 📊 Estadísticas de GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caranfa-Lucia&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caranfa-Lucia&show_icons=true&theme=radical)
-
----
-
-Gracias por visitar mi perfil 🤝 ¡Estoy abierta a nuevas oportunidades y desafíos!
-
