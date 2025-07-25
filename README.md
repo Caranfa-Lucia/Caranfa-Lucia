@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👩‍💻 ¡Hola, soy Lucía Caranfa!
 
-<!--
-**Caranfa-Lucia/Caranfa-Lucia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GIF de desarrolladora en acción](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU0cHFzcXhkdGx1dWU1ODJ1NTNuM3dyZDNpY2VxdXI1Y3YyamJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
 
-Here are some ideas to get you started:
+Desarrolladora Frontend especializada en **React JS**, apasionada por crear interfaces limpias, escalables y centradas en el usuario.  
+Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a través de soluciones eficientes y de calidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+Soy una persona versátil, proactiva y enfocada en resultados.  
+Me destaco por mi capacidad de aprendizaje rápido, atención al detalle y habilidades interpersonales que potencian el trabajo en equipo, el liderazgo y la toma de decisiones.  
+Actualmente estoy enfocada en profundizar mis conocimientos en **React JS**, incursionar en **React Native** e integrar **inteligencia artificial** a mis desarrollos.
+
+---
+
+## 🛠️ Habilidades clave
+
+- ⚛️ React JS & JavaScript
+- 🖌️ Styled Components & Tailwind CSS
+- 🧪 Testing manual y unitario
+- 🔄 API REST & consumo de servicios
+- 📦 Git, GitHub & control de versiones
+- 📈 Amplitude, Postman, Jira
+- 🧹 Clean Code & principios SOLID
+- ⚙️ Metodologías ágiles (Scrum, Kanban)
+- 🌐 Despliegue en Vercel & Netlify
+
+---
+
+## 🎯 Enfoque actual
+
+✅ Seguir creciendo como **Frontend Developer**  
+✅ Explorar el desarrollo móvil con **React Native**  
+✅ Aplicar herramientas de **IA** para mejorar calidad y rendimiento  
+✅ Trabajar en proyectos desafiantes con **impacto real**  
+✅ Participar en equipos colaborativos y ágiles
+
+---
+
+## 📬 Contacto
+
+- 📧 luciacaranfa@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucia-caranfa/)  
+- 🌐 [Mi sitio web](https://caranfa-lucia.vercel.app/)  
+- 🐙 [Mi GitHub](https://github.com/Caranfa-Lucia)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caranfa-Lucia&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caranfa-Lucia&show_icons=true&theme=radical)
+
+---
+
+Gracias por visitar mi perfil 🤝 ¡Estoy abierta a nuevas oportunidades y desafíos!
+
