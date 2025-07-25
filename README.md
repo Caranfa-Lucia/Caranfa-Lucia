@@ -19,7 +19,8 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
  <p>
     Actualmente estoy enfocada en profundizar mis conocimientos en <b>React JS</b>, incursionar en <b>React Native</b> e integrar <b>inteligencia artificial</b> a mis desarrollos. Busco  oportunidades que me permitan crecer profesionalmente y aportar valor en entornos colaborativos y dinámicos.
 </p>
-
+<br>
+<br>
 ---
 
 ## 🛠️ Conocimientos, habilidades y experiencia
