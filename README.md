@@ -4,8 +4,10 @@
 
 # 👩‍💻 ¡Hola, soy Luli!
 
+<br>
 Desarrolladora Frontend especializada en **React JS**, apasionada por crear interfaces limpias, escalables y centradas en el usuario.  
 Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a través de soluciones eficientes y de calidad.
+<br>
 
 ---
 
