@@ -9,6 +9,8 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 ## 🚀 Sobre mí
 
+<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px>
+
 Soy una persona versátil, proactiva y enfocada en resultados.  
 Me destaco por mi capacidad de aprendizaje rápido, atención al detalle y habilidades interpersonales que potencian el trabajo en equipo, el liderazgo y la toma de decisiones.  
 Actualmente estoy enfocada en profundizar mis conocimientos en **React JS**, incursionar en **React Native** e integrar **inteligencia artificial** a mis desarrollos.
