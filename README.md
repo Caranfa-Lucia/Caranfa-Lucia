@@ -27,7 +27,7 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 ---
 
-## 🛠️ Conocimientos, habilidades y experiencia
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
