@@ -54,22 +54,22 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 <br>
 
----
+----
 
-## 🎯 Enfoque actual
+<div style="display: flex; align-items: center; gap: 30px;">
+  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="250" />
+  <div>
 
-<br>
+<h2>🎯 Enfoque actual</h2>
 
-<img align="left" alt="Coding" width="250" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
-
-✅ Seguir creciendo como **Frontend Developer**  
-✅ Explorar el desarrollo móvil con **React Native**  
-✅ Aplicar herramientas de **IA** para mejorar calidad y rendimiento  
-✅ Trabajar en proyectos desafiantes con **impacto real**  
+✅ Seguir creciendo como <strong>Frontend Developer</strong><br>
+✅ Explorar el desarrollo móvil con <strong>React Native</strong><br>
+✅ Aplicar herramientas de <strong>IA</strong> para mejorar calidad y rendimiento<br>
+✅ Trabajar en proyectos desafiantes con <strong>impacto real</strong><br>
 ✅ Participar en equipos colaborativos y ágiles
 
-<br>
-<br>
+  </div>
+</div>
 
 ----
 
