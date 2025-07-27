@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
 
-# 👩‍💻 ¡Hola, soy Luli!
+# 👋 ¡Hola, soy Luli!
 
 <br>
 Desarrolladora Frontend especializada en <b>React JS</b>, apasionada por crear interfaces limpias, escalables y centradas en el usuario.  
@@ -12,7 +12,7 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 ---
 
-## 🚀 Sobre mí
+## 👩‍💻 Sobre mí
 
    <img  align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 350px>
 <br>
@@ -56,7 +56,7 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 ----
 
-## 🎯 Enfoque actual
+## 🎯 Enfoque actual 🚀
 
 <br>
 
