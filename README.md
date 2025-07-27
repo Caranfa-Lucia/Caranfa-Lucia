@@ -73,7 +73,6 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 ✅ Participar en equipos colaborativos y ágiles
 
 <br>
-<br>
 
 ----
 
