@@ -63,9 +63,13 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
 ✅ Seguir creciendo como **Frontend Developer**  
+<br>
 ✅ Explorar el desarrollo móvil con **React Native**  
+<br>
 ✅ Aplicar herramientas de **IA** para mejorar calidad y rendimiento  
+<br>
 ✅ Trabajar en proyectos desafiantes con **impacto real**  
+<br>
 ✅ Participar en equipos colaborativos y ágiles
 
 <br>
