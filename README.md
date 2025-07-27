@@ -60,7 +60,7 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 <br>
 
-<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
+<img align="left" alt="Coding" width="250" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
 ✅ Seguir creciendo como **Frontend Developer**  
 ✅ Explorar el desarrollo móvil con **React Native**  
