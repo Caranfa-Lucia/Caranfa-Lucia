@@ -12,7 +12,7 @@ Me impulsa aprender constantemente, crecer profesionalmente y sumar valor a trav
 
 ---
 
-## 👩‍💻 Sobre mí
+## <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> Sobre mí
 
    <img  align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 350px>
 <br>
